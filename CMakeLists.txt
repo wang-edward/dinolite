@@ -33,7 +33,7 @@ set(node_plugins "")
 
 add_library(
   cam_node SHARED
-  src/CamNode.cpp
+  src/cam_node.cpp
 )
 target_compile_definitions(
   cam_node
