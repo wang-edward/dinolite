@@ -1,4 +1,4 @@
-#include "dinolite/CamNode.hpp"
+#include "dinolite/cam_node.hpp"
 
 namespace dinolite {
 
